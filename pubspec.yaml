@@ -1,0 +1,19 @@
+name: double_tap_to_exit
+description: Add double-tap-to-exit functionality to your app using this package !
+version: 1.0.0
+homepage: https://github.com/sivaprasadnk/double_tap_to_exit
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
