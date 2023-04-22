@@ -1,6 +1,6 @@
 # DoubleTapToExit
 
-Add double-tap-to-exit functionality to your app using this package !
+Add double-tapping the back-button to exit functionality to your app using this package !
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Add this to your package's `pubspec.yaml` file
 
 ```yaml
 dependencies:
-  double_tap_to_exit: ^1.0.0
+  double_tap_to_exit: ^1.0.1
 ```
 
 ## Usage
