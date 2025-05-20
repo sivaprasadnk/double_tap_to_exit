@@ -1,6 +1,6 @@
 name: double_tap_to_exit
 description: Add double-tap-to-exit functionality to your app using this package !
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/sivaprasadnk/double_tap_to_exit
 
 environment:
