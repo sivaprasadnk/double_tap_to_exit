@@ -8,7 +8,7 @@ Add this to your package's `pubspec.yaml` file
 
 ```yaml
 dependencies:
-  double_tap_to_exit: ^1.0.1
+  double_tap_to_exit: ^1.0.2
 ```
 
 ## Usage
